@@ -17,7 +17,7 @@ Deep Fusion GAN (DFGAN) is a text-to-image generative model which uses a simpli
 along with a pre-trained Bi-Directional LSTM as its text encoder
 
 
-Architecture of DFGAN Model
+# Architecture of DFGAN Model
 ![image](https://github.com/imnrb/Text-to-Face-Synthesis-using-Generative-Adversarial-Networks-GANS-/assets/70696174/ea884e38-ed86-4d14-b514-2851ed505771)
 
 
