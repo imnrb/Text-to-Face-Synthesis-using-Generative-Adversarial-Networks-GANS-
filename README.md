@@ -15,6 +15,9 @@ generated examples as fake.
 
 Deep Fusion GAN (DFGAN) is a text-to-image generative model which uses a simplified backbone architecture than Attngan with a single Generator and Discriminator network
 along with a pre-trained Bi-Directional LSTM as its text encoder
+Architecture of DFGAN Model
+![image](https://github.com/imnrb/Text-to-Face-Synthesis-using-Generative-Adversarial-Networks-GANS-/assets/70696174/ea884e38-ed86-4d14-b514-2851ed505771)
+
 
 Below is one such example which we ran on our environment
 
