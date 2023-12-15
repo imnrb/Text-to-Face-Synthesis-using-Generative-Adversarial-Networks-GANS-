@@ -1,1 +1,1 @@
-# Text-to-Face-Synthesis-using-Generative-Adversarial-Networks-GANS-
+# Text-to-Face Synthesis using Generative Adversarial Networks(GANS)
